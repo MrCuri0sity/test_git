@@ -1,15 +1,2 @@
-i am a git rookie 
-i wanna learn it 
-1024 :)
-
-:)
-
-1024
-
-
-change second
-
-change third
-change fourth
-
-change 5
+Git is a version control system.
+Git is a free software.
